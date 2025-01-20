@@ -6,7 +6,7 @@ A simple Python implementation of the classic game **2048**, built using the **p
 
 ## 📝 Game Rules
 * Combine tiles with the same value to create a tile with twice the value. 
-* Use the arrow keys to slide tiles. ⬆️⬇️⬅️➡️
+* Use the arrow keys (⬆️⬇️⬅️➡️) to slide tiles. 
 * The goal is to reach the **2048** tile! 
 
 ## 📸 Screenshots
