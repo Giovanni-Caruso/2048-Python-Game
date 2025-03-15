@@ -1,5 +1,5 @@
 # 🎮 2048-Python-Game 
-A simple Python implementation of the classic game **2048**, built using the **pygame** library.
+A Python implementation of the classic game **2048**, built using the **pygame** library.
 
 ## 🕹️ About the Game
 **2048** is a popular sliding tile puzzle game. I built this version in Python for fun and as a programming challenge. 
